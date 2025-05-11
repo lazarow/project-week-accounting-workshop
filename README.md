@@ -7,6 +7,6 @@
 It is a workshop for students of the University of Silesia in Katowice interlinked with a project week.
 It is designed for students who have already gained experience in programming, with a focus on Python.
 
-There are four workshop days for creating automation for an imaginary accounting department, whereas, on the last, fifth day, students (in pairs) will prepare their automation projects in the form of a 5-minute pitch.
+There are four workshop days for creating automation for an imaginary accounting department. In contrast, on the last, fifth day, students (in pairs) will prepare their automation projects in the form of a 5-minute pitch.
 
-To run the workshop, click the `Run in Colab` button above. Then save it via `Save a copy in Drive...`.
+Click the `Run in Colab` button above to run the workshop. Then save it via `Save a copy in Drive...`.
