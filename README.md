@@ -9,4 +9,4 @@ It is designed for students who have already gained experience in programming, w
 
 There are four workshop days for creating automation for an imaginary accounting department, whereas, on the last, fifth day, students (in pairs) will prepare their automation projects in the form of a 5-minute pitch.
 
-To run the workshop, click the `Run in Colab` button above.
+To run the workshop, click the `Run in Colab` button above. Then save it via `Save a copy in Drive...`.
